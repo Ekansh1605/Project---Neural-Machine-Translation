@@ -1,0 +1,2 @@
+# Project---Neural-Machine-Translation
+ Neural Machine Translation (NMT) is the task of using articial neural network models for translation from one language to the other.The NMT model generally consists of an encoder that encodes a source sentence into a xed-length vector from which a decoder generates a translation.The dataset comes from http://www.manythings.org/anki/.: I train using RNN based Encoder-Decoder model
